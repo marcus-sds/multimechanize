@@ -12,6 +12,6 @@ https://pypi.python.org/pypi/multi-mechanize
 
 ### postbench project
 >multimech-newproject postbench<br /> 
-create config.cfg and v_user.py and config.json file
+create config.cfg and v_user.py and config.json file<br /> 
 >multimech-run postbench
 
