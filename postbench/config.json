@@ -1,0 +1,3 @@
+{
+"moray1":{"addr":"192.168.152.45", "port":"5432","dbname":"dbname", "user":"username", "passwd":"password"}
+}
