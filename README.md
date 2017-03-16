@@ -15,3 +15,7 @@ https://pypi.python.org/pypi/multi-mechanize
 create config.cfg and v_user.py and config.json file<br /> 
 >multimech-run postbench
 
+### sharkbench project
+>multimech-newproject sharkbench<br /> 
+create config.cfg and v_user.py file<br /> 
+>multimech-run sharkbench
