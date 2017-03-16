@@ -1,4 +1,4 @@
-** To test easily with shark about the response time locally and remotely
+** To test easily with shark about the response time locally and remotely with 1 user
 <pre>
 dd if=/dev/random of="sample.txt bs=1G count=1"
 
@@ -8,3 +8,6 @@ curl -m 10 -k -sL -w " %{http_code} %{time_connect} %{time_total} " -X PUT http:
 echo ""
 done
 </pre>
+
+
+** To test with multimechanize (continued)
