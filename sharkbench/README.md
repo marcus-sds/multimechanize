@@ -1,4 +1,4 @@
-** To test easily with shark about the response time locally and remotely with 1 user
+### To test easily with shark about the response time locally and remotely with 1 user
 <pre>
 dd if=/dev/random of="sample.txt bs=1G count=1"
 
@@ -10,4 +10,4 @@ done
 </pre>
 
 
-** To test with multimechanize (continued)
+### To test with multimechanize (continued)
