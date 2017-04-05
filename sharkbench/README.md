@@ -1,6 +1,6 @@
 ### To test easily with shark about the response time locally and remotely with 1 user
 <pre>
-dd if=/dev/random of="sample.txt bs=1G count=1"
+dd if=/dev/random of=sample.txt bs=100K count=1
 
 for i in `seq 1 1000`; 
 do 
