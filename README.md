@@ -19,3 +19,6 @@ create config.cfg and v_user.py and config.json file<br />
 >multimech-newproject sharkbench<br /> 
 create config.cfg and v_user.py file<br /> 
 >multimech-run sharkbench
+
+### multimechanize rerun report
+>multimech-run mysqlbench -r results_2017.08.01_07.38.01
